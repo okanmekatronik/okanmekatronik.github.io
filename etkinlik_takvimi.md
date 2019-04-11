@@ -2,6 +2,7 @@
 
 # Robokan '19 Etkinlik Takvimi
 
+![etkinlik_takvimi.jpg](etkinlik_takvimi.jpg)
 
 ### 20 Nisan Cumartesi
 
