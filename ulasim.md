@@ -32,3 +32,4 @@
 | 19:15 | Kampüs - Kadıköy |
 | 19:15 | Kampüs - Şelale Park |
 | 19:15 | Kampüs - Uydukent |
+ 
