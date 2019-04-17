@@ -7,6 +7,18 @@ AD - SOYAD,	TC KİMLİK NO,KATILIMCI ÜNVANI(ÖĞRENCİ-ÖĞRETMEN),	CİNSİYET(
 ✔ Konaklamayı kendiniz ayarlamak isterseniz aşağıdaki yerleri arayabilirsiniz. 
 <p>
 <br><br>
+  VILLA VANILLA HOTEL<br>
+Adres: Esentepe Mah, Yıldız Cad No:9, 34870 Kartal/İstanbul<br>
+Tel: 0 216 517 90 00- 0 216 517 90 90  <br><br>
+BLUE MARİNE HOTEL<br>
+Adres:  Güzelyalı Mh. Yakut Sk. No:6 Pendik / İstanbul  <br>
+Tel: 0 216 392 11 36-37<br><br>
+HAMPTON BY HILTON KURTKÖY<br>
+Adres: YeniŞehir Mh. Millet Caddesi 27 MVK Work Square B Blok 3 Pendik, İstanbul<br>
+Tel: +90 216 702 11 11<br><br>
+NEARPORT HOTEL<br>
+Adres: Yenişehir Mah. Osmanlı Bulvarı No 5/A Kurtköy Pendik İstanbul<br>
+Tel: 0216 909 96 00<br><br>
 TCDD HAYDARPAŞA MİSAFİRHANESİ<br>
 Adres : Rıhtım Cad. Kadıköy Haydarpaşa Gar Binasının yanı.  İSTANBUL<br>
 Tel : 0 216 336 26 85<br><br>
@@ -46,18 +58,7 @@ Tel: 0216 589 33 33- 0549 589 03 33<br><br>
 ASYA PARK HOTEL<br>
 Adres: Orhanlı Mahallesi, Demokrasi Cd. No:36, 34956 Tuzla/İstanbul <br>
 Tel: 0216 394 47 41<br><br>
-VILLA VANILLA HOTEL<br>
-Adres: Esentepe Mah, Yıldız Cad No:9, 34870 Kartal/İstanbul<br>
-Tel: 0 216 517 90 00- 0 216 517 90 90  <br><br>
-BLUE MARİNE HOTEL<br>
-Adres:  Güzelyalı Mh. Yakut Sk. No:6 Pendik / İstanbul  <br>
-Tel: 0 216 392 11 36-37<br><br>
-HAMPTON BY HILTON KURTKÖY<br>
-Adres: YeniŞehir Mh. Millet Caddesi 27 MVK Work Square B Blok 3 Pendik, İstanbul<br>
-Tel: +90 216 702 11 11<br><br>
-NEARPORT HOTEL<br>
-Adres: Yenişehir Mah. Osmanlı Bulvarı No 5/A Kurtköy Pendik İstanbul<br>
-Tel: 0216 909 96 00<br><br>
+<br>
 HILL SUITES RESIDENCE<br>
 Adres: Şeyhli Mahallesi Akşemsettİn Caddesİ No:6 Pendik/İstanbul<br>
 Tel: 0216 378 38 38
